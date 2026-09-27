@@ -1,0 +1,22 @@
+[
+    {
+        "name": "llamacpp",
+        "vendor": "customendpoint",
+        "apiKey": "${input:chat.lm.secret.1ce2d9b5}",
+        "apiType": "responses",
+        "models": [
+            {
+                "id": "unsloth/Qwen3.5-35B-A3B-GGUF:UD-Q4_K_XL",
+                "name": "Qwen3.5-35B-A3B UD-Q4_K_XL",
+                "url": "https://roundup-tiny-emu.ngrok-free.dev/v1/chat/completions",
+                "apiType": "chat-completions",
+                "toolCalling": true,
+                "vision": true,
+                "thinking": true,
+                "streaming": true,
+                "maxInputTokens": 131072,
+                "maxOutputTokens": 16000
+            }
+        ]
+    }
+]
