@@ -1,9 +1,9 @@
 [
     {
-        "name": "llamacpp",
+        "name": "llamacpp-copilot-chat",
         "vendor": "customendpoint",
         "apiKey": "${input:chat.lm.secret.1ce2d9b5}",
-        "apiType": "responses",
+        "apiType": "chat-completions",
         "models": [
             {
                 "id": "unsloth/Qwen3.5-35B-A3B-GGUF:UD-Q4_K_XL",
