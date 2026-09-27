@@ -1,16 +1,15 @@
 <div align="center">
-  <img src="image.png" alt="Dev Vault Logo" style="width: 150px; height: 150px; object-fit: cover; margin-bottom: 20px;" />
-  <h1>🗄️ Dev Vault</h1>
+  <img src="image.png" alt="Dev Vault Logo" style="width: auto; height: 150px; margin-bottom: 10px;" />
   <p>Repositorio personal de desarrollo y recursos de IA</p>
 </div>
 
 ---
 
-## 📖 ¿Qué es Dev Vault?
+## 📖 Descripción
 
-**Dev Vault** es tu repositorio personal donde organizas recursos de desarrollo: cuadernos de Kaggle, prompts optimizados, configuraciones, scripts de automatización, instrucciones y apuntes técnicos.
+**Dev Vault** es un repositorio personal donde se organizan recursos de desarrollo: cuadernos de Kaggle, prompts optimizados, configuraciones, scripts de automatización, instrucciones y apuntes técnicos.
 
-Un solo lugar para tener tus herramientas siempre al alcance.
+Un solo lugar para mantener las herramientas al alcance.
 
 ## 📁 Estructura
 
@@ -27,14 +26,14 @@ dev-vault/
 └── notes/                  # Apuntes técnicos y documentación
 ```
 
-## 🚀 ¿Cómo usarlo?
+## 🚀 Uso
 
-1. **Crea una carpeta** según la estructura (ej: `scripts`, `ai`, `kaggle`)
-2. **Organiza tu contenido** dentro de cada categoría
-3. **Documenta** lo que haces en `notes/` o `instructions/`
-4. **Automatiza** tareas repetitivas con scripts en `scripts/`
+1. Navegar a la carpeta correspondiente según el recurso
+2. Consultar guías en `instructions/` para procedimientos
+3. Revisar scripts en `scripts/` para automatización
+4. Referenciar apuntes en `notes/` para documentación
 
-## 📌 Recursos útiles
+## 📌 Recursos
 
 - **Kaggle**: Cuadernos y datasets en `/kaggle`
 - **Prompts**: Colección optimizada en `/prompts`
@@ -42,7 +41,7 @@ dev-vault/
 - **Scripts**: Automatización y workers en `/scripts`
 - **Guías**: Instrucciones paso a paso en `/instructions`
 
-## 🛠️ Tecnologías que usas aquí
+## 🛠️ Tecnologías que se usan
 
 - 💻 Desarrollo general
 - 🤖 Inteligencia Artificial
@@ -53,5 +52,5 @@ dev-vault/
 ---
 
 <div align="center">
-  <p><i>Dev Vault - Tu espacio personal de desarrollo</i></p>
+  <p><i>Dev Vault - Espacio personal de desarrollo</i></p>
 </div>
